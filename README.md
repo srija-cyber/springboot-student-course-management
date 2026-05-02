@@ -185,14 +185,17 @@ A form was implemented to add students.
 
 All student details are displayed in a JSP table.
 
-<img width="1107" height="936" alt="Screenshot 2026-05-02 113502" src="https://github.com/user-attachments/assets/541f3d6e-b006-4410-b939-d7f498539d52" />
+
+<img width="1919" height="1009" alt="Screenshot 2026-05-02 113510" src="https://github.com/user-attachments/assets/0337bab9-d189-4db0-8093-0f181e56e6ee" />
 
 
 ## Update Operation
 
 Student details can be edited and updated.
 
-<img width="1107" height="936" alt="Screenshot 2026-05-02 113502" src="https://github.com/user-attachments/assets/51d9ac3f-f01b-4f07-85b0-9e10af020336" />
+<img width="1045" height="1079" alt="Screenshot 2026-05-02 113602" src="https://github.com/user-attachments/assets/52f1396f-ebac-4461-a760-7eb8d10b4a37" />
+<img width="1919" height="1011" alt="Screenshot 2026-05-02 113611" src="https://github.com/user-attachments/assets/b5ec3329-62b6-4842-9c27-3aeb9533357d" />
+
 
 
 ---
